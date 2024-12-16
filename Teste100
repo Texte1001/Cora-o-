@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quer Sair Comigo?</title>
+  <style>
+    body {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      background-color: black;
+      color: white;
+      font-family: Arial, sans-serif;
+      overflow: hidden;
+    }
+
+    .container {
+      display: grid;
+      grid-template-columns: repeat(7, 20px);
+      gap: 5px;
+      visibility: hidden;
+    }
+
+    .pixel {
+      width: 20px;
+      height: 20px;
+      background-color: red;
+      opacity: 0;
+    }
+
+    .message {
+      display: none;
+      font-size: 24px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="pixel" data-pos="1"></div><div class="pixel" data-pos="2"></div><div class="pixel"></div>
+    <div class="pixel"></div><div class="pixel" data-pos="3"></div><div class="pixel" data-pos="4"></div>
+    <div class="pixel"></div><div class="pixel"></div><div class="pixel"></div><div class="pixel"></div>
+    <div class="pixel" data-pos="5"></div><div class="pixel"></div>
+    <div class="pixel" data-pos="6"></div><div class="pixel"></div><div class="pixel" data-pos="7"></div>
+    <div class="pixel" data-pos="8"></div><div class="pixel=). ` </script>`
